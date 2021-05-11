@@ -3793,9 +3793,9 @@ hoist-non-react-statics@^3.0.0, hoist-non-react-statics@^3.3.0, hoist-non-react-
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^2.0.1:
   version "2.0.1"
@@ -6316,10 +6316,10 @@ react-native-reanimated@^1.9.0:
   dependencies:
     fbjs "^1.0.0"
 
-react-native-rsa-native@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-rsa-native/-/react-native-rsa-native-2.0.0.tgz#0b74de1fdb9750d6d33a0366e61ea2ae60f38e93"
-  integrity sha512-pZ8DltFO13zfM9pPYe9Ca2GZSKvOQ3Ro3oR9lgzwHW7cwEFNijyWqHjGNIq0hfhRwyLsHurTgoWTe9Mm3hsWkQ==
+react-native-rsa-native@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-rsa-native/-/react-native-rsa-native-1.1.2.tgz#5c500046661379e51651680a4da5873e3883af9b"
+  integrity sha512-r6njBkfktKA+nd8bV2CO/xe+5/OM8zQjcwRodvEHQTtoG193BmLFLTu9q/XFWuTAOVnxbpBWgob+0+vO4EguNA==
 
 react-native-safe-area-context@^3.0.3:
   version "3.0.3"
