@@ -6139,9 +6139,9 @@ qs@^6.9.4:
   integrity sha512-A1kFqHekCTM7cz0udomYUoYNWjBebHm/5wzU/XqrBRBNWectVH0QIiN+NEcZ0Dte5hvzHwbr8+XQmguPhJ6WdQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@6.10.1:
   version "6.10.1"
@@ -6316,10 +6316,10 @@ react-native-reanimated@^1.9.0:
   dependencies:
     fbjs "^1.0.0"
 
-react-native-rsa-native@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-rsa-native/-/react-native-rsa-native-2.0.0.tgz#0b74de1fdb9750d6d33a0366e61ea2ae60f38e93"
-  integrity sha512-pZ8DltFO13zfM9pPYe9Ca2GZSKvOQ3Ro3oR9lgzwHW7cwEFNijyWqHjGNIq0hfhRwyLsHurTgoWTe9Mm3hsWkQ==
+react-native-rsa-native@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-rsa-native/-/react-native-rsa-native-1.1.2.tgz#5c500046661379e51651680a4da5873e3883af9b"
+  integrity sha512-r6njBkfktKA+nd8bV2CO/xe+5/OM8zQjcwRodvEHQTtoG193BmLFLTu9q/XFWuTAOVnxbpBWgob+0+vO4EguNA==
 
 react-native-safe-area-context@^3.0.3:
   version "3.0.3"
